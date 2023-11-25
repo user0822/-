@@ -3,18 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>lonLinkHome - Головна</title>
+    Волинський фаховий коледж Національного університету харчових технологій
     <link rel="stylesheet" href="styles.css"> <!-- Підключіть свій файл стилів, якщо ви його маєте -->
 </head>
 <body>
 
 <header>
-    <h1>Волинський фаховий коледж Національного університету харчових технологій</h1>
+    <h1>Привіт, це - ВоФК НУХТ. Виберіть категорію, яка вас цікавить:</h1>
     <nav>
         <ul>
             <li><a href="#home">Головна</a></li>
             <li><a href="#courses">Курси</a></li>
-            <li><a href="#contacts">Контакти</a></li>
+            <li><a href="#contacts">Про коледж</a></li>
+             <li><a href="#contacts">Студентові</a></li>
+             <li><a href="#contacts">Moodle</a></li>
         </ul>
     </nav>
 </header>
